@@ -1,7 +1,7 @@
 import random
 import string
 
-print("===== PASSWORD GENERATOR =====")
+print(" PASSWORD GENERATOR ")
 
 password_length = int(input("Enter desired password length: "))
 
