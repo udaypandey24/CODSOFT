@@ -5,7 +5,7 @@ choices = ["rock", "paper", "scissors"]
 player_score = 0
 computer_score = 0
 
-print("===== ROCK PAPER SCISSORS =====")
+print(" ROCK PAPER SCISSORS ")
 print("Best of 3 Rounds")
 
 for round_number in range(1, 4):
