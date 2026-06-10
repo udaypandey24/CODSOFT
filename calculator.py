@@ -1,4 +1,4 @@
-print("===== SMART CALCULATOR =====")
+print(" SMART CALCULATOR ")
 
 while True:
     print("\n1. Addition")
