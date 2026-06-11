@@ -36,7 +36,7 @@ for round_number in range(1, 4):
         print("Computer Won This Round!")
         computer_score += 1
 
-print("\n===== FINAL RESULT =====")
+print("\n FINAL RESULT ")
 print("Your Score:", player_score)
 print("Computer Score:", computer_score)
 
